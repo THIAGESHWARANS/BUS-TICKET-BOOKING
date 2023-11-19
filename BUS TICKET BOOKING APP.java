@@ -16,7 +16,7 @@ class busticket {
         System.out.print("Enter Name: ");
         name = input.nextLine();
         System.out.print("Enter Gender: ");
-        gender = input.nextLine();
+        gender = input.nextLine(); 
         System.out.print("Enter the number of persons: ");
         num = input.nextInt();
     }
