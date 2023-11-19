@@ -1,5 +1,4 @@
 # JAVA-BUS 
-## BusTicketBookingJava
 
 Welcome to the JAVA-BUS repository! 🚍✨
 
