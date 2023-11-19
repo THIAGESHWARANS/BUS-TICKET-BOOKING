@@ -30,7 +30,7 @@ class busticket {
         System.out.println("No. of Seats Available: " + count);
         if ((gender.equalsIgnoreCase("female")) && (num == 1)) {
             System.out.println("Seat no.s available for single female passenger: 3,6,9,12,15,18,21,24,27,30");
-        }
+        } 
         System.out.println("Seats Arrangement: ");
         for (int i = 1; i <= 30; i++) {
             if ((i >= 3) && (i % 3 == 0)) {
