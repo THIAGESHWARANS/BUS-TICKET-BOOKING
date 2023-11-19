@@ -87,6 +87,6 @@ class interfaces {
             obj.input();
             obj.display();
             obj.booking();
-        } while (obj.ch == 1);
+        } while (obj.ch == 1); 
     }
 } 
