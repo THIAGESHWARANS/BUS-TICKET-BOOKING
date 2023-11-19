@@ -54,7 +54,7 @@ class busticket {
                 break;
             }
             if (tarr[sno] == 1) {
-                f = 1;
+                f = 1; 
                 System.out.println("Seat already Booked");
                 break;
             }
