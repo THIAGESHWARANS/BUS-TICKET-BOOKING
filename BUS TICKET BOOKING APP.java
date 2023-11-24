@@ -48,7 +48,7 @@ class busticket {
             int a = i;
             System.out.print("Enter the seat" + (a + 1) + ":");
             sno = input.nextInt();
-            if ((gender.equalsIgnoreCase("female")) && (num == 1) && (sno % 2 == 0)) {
+            if ((gender.equalsIgnoreCase("female")) && (num == 1) && (sno % 3 == 0)) {
                 f = 1;
                 System.out.println("You can only select seats reserved for female passengers!");
                 break;
